@@ -1,0 +1,7 @@
+img {
+    border: 5px solid #b44040
+  }
+  .element-class:hover {
+    cursor: grab/pointer;
+  }
+
